@@ -1,7 +1,3 @@
-Sure, here's a template for a README file for your Power BI project focusing on analyzing your monthly household budget:
-
----
-
 # Monthly Household Budget Analysis with Power BI
 
 ## Overview
