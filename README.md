@@ -9,6 +9,15 @@ The dataset used in this project consists of your fortnightly household expenses
 The dataset was exported from an excel sheet I created for the time period. Below is a snippet of the raw data. I did some cleaning in excel but will finish some of the transformations in PowerBI.
 ![alt text](image.png)
 
+##TRANSFORMATIONS ON THE DATASET
+
+The first transformation I made was converting my row 1 into column headers
+![alt text](image-1.png)
+
+Next I removed a column with no data
+![alt text](image-2.png)
+
+
 
 ## Metrics and Analysis
 ### 1. Total MonthlyForghtnightly Expenses
