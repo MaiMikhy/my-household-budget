@@ -1,13 +1,17 @@
 # Monthly Household Budget Analysis with Power BI
 
 ## Overview
-This Power BI project aims to provide insights and analysis into your monthly household budget. By leveraging Power BI's capabilities, you can track your expenses, monitor spending trends, and make informed financial decisions.
+This Power BI project aims to provide insights and analysis into my monthly household budget for 6 months from December 2023 to May 2024.  By leveraging Power BI's capabilities, I want to track your expenses, monitor spending trends, and make informed financial decisions. I intend to do a separate in depth analysis of each line item I have spent on using my bank statements on my personal transactions as the data used in this analysis is based on our projections and usual expenses.
 
 ## Dataset
-The dataset used in this project consists of your monthly household expenses categorized into different spending categories such as groceries, utilities, rent/mortgage, transportation, entertainment, etc. Each entry includes the date, amount, and category of the expense.
+The dataset used in this project consists of your fortnightly household expenses categorized into different spending categories such as rent, insurance, groceries, fuel. Each entry includes the description, date, amount, and whether the transaction is to be paid from my account (Mildred) or my husbands' (Martin). 
+
+The dataset was exported from an excel sheet I created for the time period. Below is a snippet of the raw data. I did some cleaning in excel but will finish some of the transformations in PowerBI.
+![alt text](image.png)
+
 
 ## Metrics and Analysis
-### 1. Total Monthly Expenses
+### 1. Total MonthlyForghtnightly Expenses
 - This metric provides an overview of your total expenses for each month, helping you understand your overall spending pattern.
 
 ### 2. Expense Breakdown by Category
