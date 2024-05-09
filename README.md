@@ -17,7 +17,14 @@ The first transformation I made was converting my row 1 into column headers
 Next I removed a column with no data
 ![alt text](image-2.png)
 
+Changed data types to accounting ($) and date 
+![alt text](image-3.png)
 
+Replaced errors with 0
+![alt text](image-4.png)
+
+Replace null with 0
+![alt text](image-5.png)
 
 ## Metrics and Analysis
 ### 1. Total MonthlyForghtnightly Expenses
