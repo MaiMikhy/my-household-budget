@@ -27,17 +27,16 @@ Replace null with 0
 ![alt text](image-5.png)
 
 ## Metrics and Analysis
-### 1. Total MonthlyForghtnightly Expenses
-- This metric provides an overview of your total expenses for each month, helping you understand your overall spending pattern.
+### 1. Total Forghtnightly Expenses
+- This metric provides an overview of your total expenses for every forghtninght from 1 December 2023 and 1 April 2024  helping us to understand where our money is going
+
+
 
 ### 2. Expense Breakdown by Category
-- Analyzing expenses by category allows you to identify areas where you're spending the most. It helps in budget allocation and identifying potential areas for cost-saving.
+- Analyzing expenses by categoryits description allowed us to identify areas where you're spending the most. It helps in budget allocation and identifying potential areas for cost-saving.
 
 ### 3. Monthly Trends
-- Tracking monthly trends helps you understand fluctuations in your expenses over time. It enables you to anticipate future expenses and plan accordingly.
-
-### 4. Budget Variance
-- By comparing actual expenses to your budgeted amounts, you can assess your budget performance and make adjustments as needed.
+- Tracking monthly trends helped us to understand fluctuations in your expenses over time. It enabled us  to anticipate future expenses and plan accordingly.
 
 ### 5. Top Spending Categories
 - Identifying the top spending categories gives you insights into where the majority of your budget is being allocated. It helps in prioritizing areas for optimization.
