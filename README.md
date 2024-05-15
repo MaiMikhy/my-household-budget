@@ -28,26 +28,33 @@ Replace null with 0
 
 ## Metrics and Analysis
 ### 1. Total Forghtnightly Expenses
-- This metric provides an overview of your total expenses for every forghtninght from 1 December 2023 and 1 April 2024  helping us to understand where our money is going
+- This metric provides an overview of your total expenses for every forghtninght from 1 December 2023 and 1 April 2024  helping us to understand which fortnight we spent the most so we can drill down to find out why
+![alt text](image-6.png)
 
 
 
 ### 2. Expense Breakdown by Category
-- Analyzing expenses by categoryits description allowed us to identify areas where you're spending the most. It helps in budget allocation and identifying potential areas for cost-saving.
+- Analyzing expenses by its description allowed us to identify areas where we are spending the most. It helps in budget allocation and identifying potential areas for cost-saving.
+![alt text](image-8.png)
 
 ### 3. Monthly Trends
-- Tracking monthly trends helped us to understand fluctuations in your expenses over time. It enabled us  to anticipate future expenses and plan accordingly.
+- Tracking monthly trends helped us to understand fluctuations in your expenses over time. It enabled us  to anticipate future expenses and plan accordingly. I also super imposed an average cost line 
+![alt text](image-7.png)
 
 ### 5. Top Spending Categories
-- Identifying the top spending categories gives you insights into where the majority of your budget is being allocated. It helps in prioritizing areas for optimization.
+- Identifying the top 10 spending categories gives you insights into where the majority of your budget is being allocated. It helps in prioritizing areas for optimization.
+![alt text](image-9.png)
+
+I then published my report in Power BI service to create a dashboard.
+![alt text](image-10.png)
 
 ## Dashboard Layout
 The Power BI dashboard is designed to provide an intuitive and user-friendly interface for exploring your household budget data. It consists of the following components:
-1. **Monthly Expense Overview**: A summary of total monthly expenses.
+1. **Monthly Expense Overview**: A summary of total fortnightly expenses.
 2. **Expense Breakdown**: A visual representation of expenses by category.
 3. **Monthly Trends**: Line chart showing monthly spending trends.
-4. **Budget Variance**: Gauge chart displaying the variance between actual and budgeted expenses.
-5. **Top Spending Categories**: Bar chart highlighting the top spending categories.
+4. **Top Spending Categories**: Bar chart highlighting the top spending categories.
+![alt text](image-11.png)
 
 ## How to Use
 1. **Data Refresh**: Ensure that your dataset is regularly updated with the latest expense data.
@@ -61,7 +68,7 @@ The Power BI dashboard is designed to provide an intuitive and user-friendly int
 - [Power BI Community](https://community.powerbi.com/)
 
 ## Contributors
-- [Your Name/Username]
+-Mildred Chamambo
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
